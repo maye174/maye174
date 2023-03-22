@@ -1,6 +1,6 @@
 ### Maye
-你好😄 我是maye(妈耶)，一名在读大学生，喜欢游戏和编程，正在学习图形学，平时喜欢折腾各种各样的东西。。。
-这是我的[bento主页](https://bento.me/maye)
+- 你好😄 我是maye(妈耶)，一名在读大学生，喜欢游戏和编程，正在学习图形学，平时喜欢折腾各种各样的东西。。。
+- 这是我的[bento主页](https://bento.me/maye)
 
 <!--
 **maye174/maye174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
