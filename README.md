@@ -1,7 +1,7 @@
 ###   Maye
 你好😄 我是maye(妈耶)，一名在读大学生，喜欢游戏和编程，最近正在学习图形学，平时喜欢折腾各种各样的东西。。。  
   
-这是我的[bento主页](https://bento.me/maye)  
+这是我其他平台的[link](https://bento.me/maye)  
   
 去年的微信读书时间：  
 
