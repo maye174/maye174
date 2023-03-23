@@ -5,7 +5,8 @@
   
 去年的微信读书时间：  
 
-![weread](https://user-images.githubusercontent.com/96584640/226974245-4f371573-7abc-4aaa-ab1e-822d9e352d98.svg)
+![weread](https://user-images.githubusercontent.com/96584640/227094847-034f2817-30a7-4fe4-9786-8f051893784a.svg)
+
 
 <!--
 **maye174/maye174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
