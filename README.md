@@ -6,7 +6,7 @@
 去年的微信读书时间：  
 
 ![weread](https://user-images.githubusercontent.com/96584640/227094847-034f2817-30a7-4fe4-9786-8f051893784a.svg)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maye174)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maye174/maye174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
